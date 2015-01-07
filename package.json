@@ -1,0 +1,8 @@
+{
+  "name": "labs",
+  "version": "0.0.1",
+  "description": "Labs",
+  "dependencies": {
+    "mime": "~1.2.7"
+  }
+}
